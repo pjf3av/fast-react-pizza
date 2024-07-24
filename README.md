@@ -1,8 +1,26 @@
-# React + Vite
+# Fast React Pizza
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This demo project simulates an online ordering platform tailored for a pizzeria. Users can browse through available menu options and simulate the ordering process. Leveraging React's capabilities, the application demonstrates efficient state management and responsive design principles. This project serves as a practical showcase of frontend development techniques, offering insights into building intuitive user interfaces for online food ordering systems.
 
-Currently, two official plugins are available:
+**Live Deployment: [https://pjf3av-fast-react-pizza.netlify.app/](https://pjf3av-fast-react-pizza.netlify.app/)**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Core Features
+
+- View currently available menu items
+- Add items to and view cart
+- Check out with phone/address details (optionally using geolocation)
+- Mark special orders for priority for extra fee
+- Check order status
+- Simulated payment processing (not a focus of project)
+- Respsonive UI design
+
+## Development Technologies
+
+- React
+- Redux
+- useReducer
+- React Router
+- Tailwind CSS
+- API for fetching restaurant menu (available items, sold out status, etc.)
+- API for placing orders
+- API for fetching placed order status
