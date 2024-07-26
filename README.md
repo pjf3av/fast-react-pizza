@@ -26,3 +26,34 @@ This demo project simulates an online ordering platform tailored for a pizzeria.
 - API for fetching restaurant menu (available items, sold out status, etc.)
 - API for placing orders
 - API for fetching placed order status
+
+## Getting Started
+To clone and deploy this project locally, follow these simple steps.
+
+### Prerequisites
+
+First, make sure you have the latest version of npm:
+
+```bash
+npm install npm@latest -g
+```
+
+### Installation
+
+1. Clone this repo
+
+```
+git clone https://github.com/pjf3av/fast-react-pizza.git
+```
+
+2. Install NPM packages
+
+```
+npm i
+```
+
+3. Start server
+
+```
+npm run dev
+```
