@@ -1,6 +1,6 @@
 # Fast React Pizza
 
-**Note: This project is based on the [The Ultimate React Course by Jonas Schmedtmann](https://www.udemy.com/course/the-ultimate-react-course/)**.
+**Note: This project is based on [The Ultimate React Course by Jonas Schmedtmann](https://www.udemy.com/course/the-ultimate-react-course/)**.
 
 This demo project simulates an online ordering platform tailored for a pizzeria. Users can browse through available menu options and simulate the ordering process. Leveraging React's capabilities, the application demonstrates efficient state management and responsive design principles. This project serves as a practical showcase of frontend development techniques, offering insights into building intuitive user interfaces for online food ordering systems.
 
